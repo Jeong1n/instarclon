@@ -1,2 +1,2 @@
 메인페이지 구성 
-![image](https://user-images.githubusercontent.com/102134953/165878382-487df52f-9c7f-4c4c-a54b-4e64030c5ce1.png)
+![image](https://user-images.githubusercontent.com/102134953/165893577-9fe59f10-9b00-4342-b614-00c011976424.png)
